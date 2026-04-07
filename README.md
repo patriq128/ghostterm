@@ -50,7 +50,7 @@ sudo pacman -S espeak        # Arch
 ## Usage
 
 ```bash
-python3 ghostterm.py
+python3 main.py
 ```
 
 The window appears in the top-right corner of your screen. Type your prompt and press **Enter**.
