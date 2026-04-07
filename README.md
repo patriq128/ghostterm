@@ -1,4 +1,4 @@
-# 👻 ghostterm
+# ghostterm
 
 A lightweight, always-on-top AI terminal assistant powered by [tgpt](https://github.com/aandrew-me/tgpt) with optional text-to-speech output.
 
