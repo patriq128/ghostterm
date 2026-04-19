@@ -12,7 +12,6 @@ A lightweight, always-on-top AI terminal assistant powered by [tgpt](https://git
 
 `ghostterm` sits quietly in the corner of your screen — a small black terminal window that stays on top of everything. Type a question, get an AI answer. It can even read the response aloud.
 
-![screenshot placeholder](screenshot.png)
 
 ---
 
